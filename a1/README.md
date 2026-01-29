@@ -26,6 +26,7 @@ Below are the Git commands used during this assignment with brief descriptions.
 ![JDK Hello World](img/lis4368-a1-img-javahello.png)
 
 ### Tomcat running locally
-![Tomcat running](img/lis4368-a1-tomcat.png)
+![Tomcat running](img/lis4368-a1-img-tomcat.png)
 
 ### A1 Page Screenshot
+![A1 Running](img/lis4368-a1-img-a1page.png)

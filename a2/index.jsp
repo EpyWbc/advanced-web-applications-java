@@ -11,7 +11,7 @@
 	<meta name="author" content="Mark K. Jowett, Ph.D.">
 	<link rel="icon" href="favicon.ico">
 
-	<title>LIS4368 - Assignment1</title>
+	<title>LIS4368 - Assignment2</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 	
@@ -32,13 +32,13 @@
 					</div>
 
 					<b>Servlet Compilation and Usage:</b><br />
-					<img src="img/using_servlets.png" class="img-responsive center-block" alt="Using Servlets" />
+					<img src="img/lis4368-a2-img-sayhello.png" class="img-responsive center-block" alt="Using Servlets" />
 
 					<br /> <br />
 					<b>Database Connectivity Using Servlets:</b><br />
-					<img src="img/database_connectivity1.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
+					<img src="img/lis4368-a2-img-queryask.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
 				<br />
-					<img src="img/database_connectivity2.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
+					<img src="img/lis4368-a2-img-queryresponse.png" class="img-responsive center-block" alt="Database Connectivity Using Servlets" />
 
 	<%@ include file="/global/footer.jsp" %>
 

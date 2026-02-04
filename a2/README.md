@@ -41,7 +41,7 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
 ![Hello Home](img/lis4368-a2-img-hellohome.png)
 
 **Hello Servlet Running**
-![Hello Servlet](img/lis4368-a2-img-hello.png)
+![Hello Servlet](img/lis4368-a2-img-sayhello.png)
 
 **Query Form Page**
 ![Query Form](img/lis4368-a2-img-queryask.png)

@@ -55,6 +55,23 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
 
 ---
 
-> All components of Assignment 2 are installed, configured, and functioning as required.  
-> This project was tested locally using Apache Tomcat 10 and MySQL via AMPPS.
+## Java Skill Sets – Screenshots & Source Code
+
+### Skill Set 1: System Properties  
+[View Source Code](../skillsets/SS1_System_Properties)
+
+### Skill Set 2: Looping Structures  
+[View Source Code](../skillsets/SS2_Looping_Structures)
+
+### Skill Set 3: Number Swap  
+[View Source Code](../skillsets/SS3_Number_Swap)
+
+<p align="center">
+  <img src="img/SS1-Working.png" width="30%">
+  <img src="img/SS2-Working.png" width="30%">
+  <img src="img/SS3-Working.png" width="30%">
+  **Left → Right:**  
+Skill Set 1 (System Properties) | Skill Set 2 (Looping Structures) | Skill Set 3 (Number Swap)
+
+</p>
 

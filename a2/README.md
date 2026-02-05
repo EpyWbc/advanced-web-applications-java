@@ -68,8 +68,8 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="../skillsets/SS1_System_Properties">Source Code</a></td>
-    <td align="center"><a href="../skillsets/SS2_Looping_Structures">Source Code</a></td>
+    <td align="center"><a href="../skillsets/SS1_System_Properties">
+    <td align="center"><a href="../skillsets/SS2_Looping_Structures">
     <td align="center"><a href="../skillsets/SS3_Number_Swap">
   </tr>
 </table>

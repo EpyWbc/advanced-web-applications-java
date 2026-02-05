@@ -55,23 +55,39 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
 
 ---
 
-## Java Skill Sets – Screenshots & Source Code
+---
 
-### Skill Set 1: System Properties  
+## Java Skill Sets - Screenshots & Source Code
+
+### Skill Set 1: System Properties
 [View Source Code](../skillsets/SS1_System_Properties)
 
-### Skill Set 2: Looping Structures  
+### Skill Set 2: Looping Structures
 [View Source Code](../skillsets/SS2_Looping_Structures)
 
-### Skill Set 3: Number Swap  
+### Skill Set 3: Number Swap
 [View Source Code](../skillsets/SS3_Number_Swap)
 
-<p align="center">
-  <img src="img/SS1-Working.png" width="30%">
-  <img src="img/SS2-Working.png" width="30%">
-  <img src="img/SS3-Working.png" width="30%">
-  **Left → Right:**  
-Skill Set 1 (System Properties) | Skill Set 2 (Looping Structures) | Skill Set 3 (Number Swap)
-
-</p>
-
+<table>
+  <tr>
+    <td align="center"><b>Skill Set 1: System Properties</b></td>
+    <td align="center"><b>Skill Set 2: Looping Structures</b></td>
+    <td align="center"><b>Skill Set 3: Number Swap</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="../skillsets/SS1_System_Properties"><img src="img/SS1-Working.png" width="300"></a>
+    </td>
+    <td align="center">
+      <a href="../skillsets/SS2_Looping_Structures"><img src="img/SS2-Working.png" width="300"></a>
+    </td>
+    <td align="center">
+      <a href="../skillsets/SS3_Number_Swap"><img src="img/SS3-Working.png" width="300"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="../skillsets/SS1_System_Properties">Source Code</a></td>
+    <td align="center"><a href="../skillsets/SS2_Looping_Structures">Source Code</a></td>
+    <td align="center"><a href="../skillsets/SS3_Number_Swap">Source Code</a></td>
+  </tr>
+</table>

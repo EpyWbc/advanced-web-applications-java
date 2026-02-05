@@ -17,3 +17,8 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    
+    - Application database created
+    - Database servlet connected
+    - Java Skill Sets included
+    - Screenshots provided

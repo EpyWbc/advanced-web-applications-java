@@ -41,14 +41,6 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
 
 ## Java Skill Sets - Screenshots & Source Code
 
-### Skill Set 1: System Properties
-[View Source Code](../skillsets/SS1_System_Properties)
-
-### Skill Set 2: Looping Structures
-[View Source Code](../skillsets/SS2_Looping_Structures)
-
-### Skill Set 3: Number Swap
-[View Source Code](../skillsets/SS3_Number_Swap)
 
 <table>
   <tr>

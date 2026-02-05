@@ -19,22 +19,6 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
 
 ---
 
-### Application Links
-
-- **Application Root (index):**  
-  http://localhost:9999/lis4368/a2/
-
-- **Hello Servlet:**  
-  http://localhost:9999/hello/sayhello
-
-- **Query Form:**  
-  http://localhost:9999/hello/querybook.html
-
-- **Query Servlet (example):**  
-  http://localhost:9999/hello/query?author=Tan+Ah+Teck
-
----
-
 ### Assignment Screenshots
 
 **Hello Home Page**
@@ -52,8 +36,6 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
 **Application Working Confirmation**
 ![Working Application](img/lis4368-a2-img-a2working.png)
 
-
----
 
 ---
 
@@ -88,6 +70,6 @@ This assignment demonstrates a working Java Servlet application deployed on Apac
   <tr>
     <td align="center"><a href="../skillsets/SS1_System_Properties">Source Code</a></td>
     <td align="center"><a href="../skillsets/SS2_Looping_Structures">Source Code</a></td>
-    <td align="center"><a href="../skillsets/SS3_Number_Swap">Source Code</a></td>
+    <td align="center"><a href="../skillsets/SS3_Number_Swap">
   </tr>
 </table>

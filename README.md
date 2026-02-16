@@ -22,3 +22,19 @@
     - Database servlet connected
     - Java Skill Sets included
     - Screenshots provided
+
+3. [A3 README.md](a3/README.md "My A3 README.md file.")
+    
+    - Screenshot of ERD
+    - Screenshot of Populated Tables
+    - Screenshot of a3 index.jsp
+    - MWB File
+    - SQL File
+
+4.
+
+5.
+
+6.
+
+7.

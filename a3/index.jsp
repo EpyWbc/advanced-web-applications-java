@@ -11,7 +11,7 @@
 	<meta name="author" content="Mark K. Jowett, Ph.D.">
 	<link rel="icon" href="favicon.ico">
 
-	<title>LIS4368 - Assignment1</title>
+	<title>LIS4368 - Assignment3</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 	
@@ -32,8 +32,13 @@
 					</div>
 
 					<b>Petstore Database (Entity Relationship Diagram):</b><br />
-					<img src="img/a3.png" class="img-responsive center-block" alt="A3 ERD" />
-
+					<img src="img/lis4368-a3-img-a3working.png" class="img-responsive center-block" alt="A3 ERD" />
+                    <b>Petstore Database (Populated Tables 1/3):</b><br />
+					<img src="img/lis4368-a3-img-customerdata.png" class="img-responsive center-block" alt="A3 ERD Populated Customer" />
+					<b>Petstore Database (Populated Tables 2/3):</b><br />
+					<img src="img/lis4368-a3-img-petstoredata.png" class="img-responsive center-block" alt="A3 ERD Populated Petstore" />
+					<b>Petstore Database (Populated Tables 3/3):</b><br />
+					<img src="img/lis4368-a3-img-petdata.png" class="img-responsive center-block" alt="A3 ERD Populated Pet" />
 					<br /> <br />
 					<b>MySQL Workbench and SQL Files:</b><br />
 					<a href="docs/a3.mwb">Petstore MySQL Workbench File</a>

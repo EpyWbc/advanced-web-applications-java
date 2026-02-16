@@ -49,13 +49,38 @@
 [Skillset 5: Character Info](../skillsets/SS5_Character_Info)  |
 [Skillset 6: Determine Character](../skillsets/SS6_Determine_Character)
 
-![SS4: Directory Info](img/SS4-Working.png)
-![SS5: Character Info Run 1](img/SS5-Working-Run1.png)
-![SS5: Character Info Run 2](img/SS5-Working-Run2.png)
-![SS6: Determine Character Run 1](img/SS6-Working-Run1.png)
-![SS6: Determine Character Run 2](img/SS6-Working-Run2.png)
-![SS6: Determine Character Run 3](img/SS6-Working-Run3.png)
-![SS6: Determine Character Run 4](img/SS6-Working-Run4.png)
-![SS6: Determine Character Run 5](img/SS6-Working-Run5.png)
-![SS6: Determine Character Run 6](img/SS6-Working-Run6.png)
+**Program Output – Directory Listing**
 
+![SS4 Directory Info](img/SS4-Working.png)
+
+**Run #1 – Uppercase Character Test**
+
+![SS5 Run 1](img/SS5-Working-Run1.png)
+
+**Run #2 – Lowercase Character Frequency Test**
+
+![SS5 Run 2](img/SS5-Working-Run2.png)
+
+**Run #1 – Lowercase Vowel Test**
+
+![SS6 Run 1](img/SS6-Working-Run1.png)
+
+**Run #2 – Uppercase Vowel Test**
+
+![SS6 Run 2](img/SS6-Working-Run2.png)
+
+**Run #3 – Lowercase Consonant Test**
+
+![SS6 Run 3](img/SS6-Working-Run3.png)
+
+**Run #4 – Uppercase Consonant Test**
+
+![SS6 Run 4](img/SS6-Working-Run4.png)
+
+**Run #5 – Special Character Test**
+
+![SS6 Run 5](img/SS6-Working-Run5.png)
+
+**Run #6 – Integer Test**
+
+![SS6 Run 6](img/SS6-Working-Run6.png)

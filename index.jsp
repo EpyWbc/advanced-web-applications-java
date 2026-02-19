@@ -69,35 +69,51 @@ h2
        <!-- Carousel items -->
         <div class="carousel-inner">
 
-				 <div class="active item" style="background: url(img/robot.jpg) no-repeat left center; background-size: cover;">
-					 <div class="container">
-						 <div class="carousel-caption">
-								<h3>First slide label.</h3>
-							 <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget.</p>
-							 <a class="btn btn-large btn-primary" href="#">Learn more</a>
-						 </div>
-					 </div>
-				 </div>					
-
-         <div class="item" style="background: url(img/code4.jpg) no-repeat left center; background-size: cover;">
-                <h2>Slide 2</h2>
-                <div class="carousel-caption">
-                  <h3>Second slide label</h3>
-                  <p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
-						 <!--  <img src="img/slide2.png" alt="Slide 2">									 -->						
-                </div>
+    <!-- Slide 1: LinkedIn -->
+    <div class="active item"
+         style="background: url(img/linkedin.png) no-repeat center center; background-size: contain; background-color: #ffffff; min-height: 420px;">
+        <div class="container">
+            <div class="carousel-caption">
+                <h3>LinkedIn</h3>
+                <p class="lead">Connect with me professionally.</p>
+                <a class="btn btn-large btn-primary"
+                   href="https://www.linkedin.com/in/wyatt-campbell-535b01309/"
+                   target="_blank">
+                   Visit My LinkedIn
+                </a>
             </div>
-
-         <div class="item" style="background: url(img/keyboard.jpg) no-repeat left center; background-size: cover;">
-                <h2>Slide 3</h2>
-                <div class="carousel-caption">
-                  <h3>Third slide label</h3>
-                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-						<!--  <img src="img/slide3.png" class="img-responsive" alt="Slide 3">							 -->								
-                </div>
-            </div>
-
         </div>
+    </div>
+
+    <!-- Slide 2: Bitbucket -->
+    <div class="item"
+         style="background: url(img/bitbucket.png) no-repeat center center; background-size: contain; background-color: #ffffff; min-height: 420px;">
+        <div class="container">
+            <div class="carousel-caption">
+                <h3>Bitbucket</h3>
+                <p class="lead">View my LIS4368 repositories and coursework.</p>
+                <a class="btn btn-large btn-primary"
+                   href="https://bitbucket.org/wbc22/lis4368/src/master/"
+                   target="_blank">
+                   Visit My Bitbucket
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 3: FSU -->
+    <div class="item"
+         style="background: url(img/fsu.png) no-repeat center center; background-size: contain; background-color: #ffffff; min-height: 420px;">
+        <div class="container">
+            <div class="carousel-caption">
+                <h3>Florida State University</h3>
+                <p class="lead">LIS 4368 – Advanced Web App Development</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
         <!-- Carousel nav -->
         <a class="carousel-control left" href="#myCarousel" data-slide="prev">
             <span class="glyphicon glyphicon-chevron-left"></span>

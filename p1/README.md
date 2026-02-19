@@ -39,13 +39,32 @@
 
 ---
 
-#### Skillsets (Folders Created – To Be Completed)
-
-[SS7: Count Characters](../skillsets/SS7_Count_Characters) |
-[SS8: ASCII](../skillsets/SS8_ASCII) |
-[SS9: Grade Calculator](../skillsets/SS9_Grade_Calculator)
+#### Skillsets:
 
 ---
+
+##### SS7: Count Characters
+
+[SS7 Folder](../skillsets/SS7_Count_Characters)
+
+**Program Output – Count Characters (Working)**
+
+![SS7 Working](img/SS7-Working.png)
+
+---
+
+##### SS8: ASCII
+
+[SS8 Folder](../skillsets/SS8_ASCII)
+
+---
+
+##### SS9: Grade Calculator
+
+[SS9 Folder](../skillsets/SS9_Grade_Calculator)
+
+---
+
 
 ### Notes
 

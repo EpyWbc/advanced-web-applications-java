@@ -43,12 +43,31 @@
 
 ---
 
+---
+
 #### Java Skill Sets – Screenshots & Source Code
 
-| Skill Set 7: Count Characters | Skill Set 8: ASCII | Skill Set 9: Grade Calculator |
-|--------------------------------|---------------------|-------------------------------|
-| [SS7 Folder](../skillsets/SS7_Count_Characters) | [SS8 Folder](../skillsets/SS8_ASCII) | [SS9 Folder](../skillsets/SS9_Grade_Calculator) |
-| ![SS7 Working](img/SS7-Working.png) | ![SS8 Output 1](img/SS8-Working-firstSS.png)<br>![SS8 Output 2](img/SS8-Working-secondSS.png)<br>![SS8 Output 3](img/SS8-Working-thirdSS.png) | ![SS9 Working](img/SS9-Working.png) |
+---
+
+### [Skill Set 7: Count Characters](../skillsets/SS7_Count_Characters)
+
+![SS7 Working](img/SS7-Working.png)
+
+---
+
+### [Skill Set 8: ASCII](../skillsets/SS8_ASCII)
+
+![SS8 Output 1](img/SS8-Working-firstSS.png)
+
+![SS8 Output 2](img/SS8-Working-secondSS.png)
+
+![SS8 Output 3](img/SS8-Working-thirdSS.png)
+
+---
+
+### [Skill Set 9: Grade Calculator](../skillsets/SS9_Grade_Calculator)
+
+![SS9 Working](img/SS9-Working.png)
 
 ---
 

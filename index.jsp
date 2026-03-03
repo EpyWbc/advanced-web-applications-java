@@ -8,7 +8,7 @@
 	<meta name="author" content="Wyatt Campbell">
 	<link rel="icon" href="lis4368/favicon.ico">
 
-	<title>My Online Portfolio</title>
+	<title>Wyatt Campbell's Online Portfolio</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 
@@ -28,8 +28,8 @@ h2{
 .bs-example{ margin:20px; }
 
 #myCarousel .item{
-	height:420px;          /* fixes the "tiny slide" issue */
-	background-color:#fff; /* clean background like your classmates */
+	height:420px;          
+	background-color:#fff; 
 	text-align:center;
 }
 
@@ -120,11 +120,11 @@ h2{
 	</div>
 
 	<!-- Slide 3: FSU -->
-	<div class="item" style="background-image: url('img/fsu.png');">
+	<div class="item" style="background-image: url('img/fsulogo.png');">
 		<div class="container">
 			<div class="carousel-caption">
 				<h3>Florida State University</h3>
-				<p class="lead">LIS 4368 – Advanced Web App Development</p>
+				<p class="lead">On track to graduate in May 2027!!</p>
 			</div>
 		</div>
 	</div>

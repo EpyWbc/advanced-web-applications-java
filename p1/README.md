@@ -10,6 +10,8 @@
 2. README.md must include screenshots per assignment instructions.
 3. FSU’s Learning Management System: Bitbucket repo link.
 4. Carousel contains minimum three (3) slides created by student with text and images that link to other content areas promoting skills.
+5. Screenshots of working form validation
+6. Screenshots and links to working Skillset code 
 
 ---
 

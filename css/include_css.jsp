@@ -27,3 +27,36 @@ http://stackoverflow.com/questions/32039568/what-are-the-integrity-and-crossorig
 <!-- jQuery DataTables: http://www.datatables.net/ //-->
 <!-- jQuery DataTables CDN: https://cdn.datatables.net/ //-->
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.16/r-2.2.1/datatables.min.css"/>
+
+<style>
+
+/* ===== NAVBAR CUSTOM STYLE ===== */
+
+.navbar,
+.navbar-inverse {
+    background: #782F40 !important; /* FSU Garnet */
+    border: none !important;
+    border-radius: 0 !important;
+}
+
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a,
+.navbar .navbar-brand,
+.navbar .navbar-nav > li > a {
+    color: #CEB888 !important; /* FSU Gold */
+    font-weight: 600;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:hover {
+    color: #ffffff !important;
+    background: rgba(255,255,255,0.15) !important;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a {
+    background: rgba(0,0,0,0.25) !important;
+    color: #ffffff !important;
+}
+
+</style>

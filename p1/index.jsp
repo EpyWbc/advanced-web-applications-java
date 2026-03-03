@@ -11,7 +11,7 @@
 	<meta name="author" content="Wyatt Campbell">
 	<link rel="icon" href="favicon.ico">
 
-	<title>LIS4368 - Project1 (Fix course number!)</title>
+	<title>LIS4368 - Project1</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 

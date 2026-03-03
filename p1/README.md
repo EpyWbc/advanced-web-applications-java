@@ -57,11 +57,23 @@
 
 [SS8 Folder](../skillsets/SS8_ASCII)
 
+**Program Output – ASCII (Working)**
+
+![SS8 First Output](img/SS8-Working-firstSS.png)
+
+![SS8 Second Output](img/SS8-Working-secondSS.png)
+
+![SS8 Third Output](img/SS8-Working-thirdSS.png)
+
 ---
 
 ##### SS9: Grade Calculator
 
 [SS9 Folder](../skillsets/SS9_Grade_Calculator)
+
+**Program Output – Grade Calculator (Working)**
+
+![SS9 Working](img/SS9-Working.png)
 
 ---
 

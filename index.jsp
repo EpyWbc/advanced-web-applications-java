@@ -14,27 +14,47 @@
 
 <!-- Carousel styles -->
 <style type="text/css">
-h2
-{
-	margin: 0;     
-	color: #666;
-	padding-top: 50px;
-	font-size: 52px;
-	font-family: "trebuchet ms", sans-serif;    
+
+h2{
+	margin:0;
+	color:#666;
+	padding-top:50px;
+	font-size:52px;
+	font-family:"trebuchet ms", sans-serif;
 }
-.item
-{
-	background: #333;    
-	text-align: center;
-	height: 300px !important;
+
+/* keep Bootstrap's carousel look, but give it real height */
+.carousel{ margin:20px 0; }
+.bs-example{ margin:20px; }
+
+#myCarousel .item{
+	height:420px;          /* fixes the "tiny slide" issue */
+	background-color:#fff; /* clean background like your classmates */
+	text-align:center;
 }
-.carousel
-{
-  margin: 20px 0px 20px 0px;
+
+/* background image behavior (logo-friendly) */
+#myCarousel .item{
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:contain;   /* shows full logo without cropping */
 }
-.bs-example
-{
-  margin: 20px;
+
+/* keep captions readable */
+#myCarousel .carousel-caption{
+	background: rgba(0,0,0,0.55);
+	border-radius:10px;
+	padding:18px 22px;
+	display:inline-block;
+	left:50%;
+	transform:translateX(-50%);
+	bottom:35px;
+}
+
+/* keep arrows visible */
+#myCarousel .carousel-control.left,
+#myCarousel .carousel-control.right{
+	background-image:none;
 }
 </style>
 	
@@ -49,12 +69,12 @@ h2
 						<%@ include file="/global/header.jsp" %>							
 						</div>
 
-<!-- Start Bootstrap Carousel  -->
+<!-- Start Bootstrap Carousel  --> 
 <div class="bs-example">
 	<div
       id="myCarousel"
 		class="carousel"
-		data-interval="1000"
+		data-interval="5000"
 		data-pause="hover"
 		data-wrap="true"
 		data-keyboard="true"			
@@ -67,62 +87,60 @@ h2
             <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>   
        <!-- Carousel items -->
-        <div class="carousel-inner">
+<div class="carousel-inner">
 
-    <!-- Slide 1: LinkedIn -->
-    <div class="active item"
-         style="background: url(img/linkedin.png) no-repeat center center; background-size: contain; background-color: #ffffff; min-height: 420px;">
-        <div class="container">
-            <div class="carousel-caption">
-                <h3>LinkedIn</h3>
-                <p class="lead">Connect with me professionally.</p>
-                <a class="btn btn-large btn-primary"
-                   href="https://www.linkedin.com/in/wyatt-campbell-535b01309/"
-                   target="_blank">
-                   Visit My LinkedIn
-                </a>
-            </div>
-        </div>
-    </div>
+	<!-- Slide 1: LinkedIn -->
+	<div class="item active" style="background-image: url('img/linkedin.png');">
+		<div class="container">
+			<div class="carousel-caption">
+				<h3>LinkedIn</h3>
+				<p class="lead">Connect with me professionally.</p>
+				<a class="btn btn-large btn-primary"
+				   href="https://www.linkedin.com/in/wyatt-campbell-535b01309/"
+				   target="_blank" rel="noopener">
+				   Visit My LinkedIn
+				</a>
+			</div>
+		</div>
+	</div>
 
-    <!-- Slide 2: Bitbucket -->
-    <div class="item"
-         style="background: url(img/bitbucket.png) no-repeat center center; background-size: contain; background-color: #ffffff; min-height: 420px;">
-        <div class="container">
-            <div class="carousel-caption">
-                <h3>Bitbucket</h3>
-                <p class="lead">View my LIS4368 repositories and coursework.</p>
-                <a class="btn btn-large btn-primary"
-                   href="https://bitbucket.org/wbc22/lis4368/src/master/"
-                   target="_blank">
-                   Visit My Bitbucket
-                </a>
-            </div>
-        </div>
-    </div>
+	<!-- Slide 2: Bitbucket -->
+	<div class="item" style="background-image: url('img/bitbucket.png');">
+		<div class="container">
+			<div class="carousel-caption">
+				<h3>Bitbucket</h3>
+				<p class="lead">View my LIS4368 repositories and coursework.</p>
+				<a class="btn btn-large btn-primary"
+				   href="https://bitbucket.org/wbc22/lis4368/src/master/"
+				   target="_blank" rel="noopener">
+				   Visit My Bitbucket
+				</a>
+			</div>
+		</div>
+	</div>
 
-    <!-- Slide 3: FSU -->
-    <div class="item"
-         style="background: url(img/fsu.png) no-repeat center center; background-size: contain; background-color: #ffffff; min-height: 420px;">
-        <div class="container">
-            <div class="carousel-caption">
-                <h3>Florida State University</h3>
-                <p class="lead">LIS 4368 – Advanced Web App Development</p>
-            </div>
-        </div>
-    </div>
+	<!-- Slide 3: FSU -->
+	<div class="item" style="background-image: url('img/fsu.png');">
+		<div class="container">
+			<div class="carousel-caption">
+				<h3>Florida State University</h3>
+				<p class="lead">LIS 4368 – Advanced Web App Development</p>
+			</div>
+		</div>
+	</div>
 
-</div>
+</div> <!-- /carousel-inner -->
 
-        <!-- Carousel nav -->
-        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left"></span>
-        </a>
-        <a class="carousel-control right" href="#myCarousel" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right"></span>
-        </a>
-    </div>
-</div>
+<!-- Carousel nav -->
+<a class="carousel-control left" href="#myCarousel" data-slide="prev">
+	<span class="glyphicon glyphicon-chevron-left"></span>
+</a>
+<a class="carousel-control right" href="#myCarousel" data-slide="next">
+	<span class="glyphicon glyphicon-chevron-right"></span>
+</a>
+
+</div> <!-- /#myCarousel -->
+</div> <!-- /.bs-example -->
 <!-- End Bootstrap Carousel  -->
 
  	<%@ include file="/global/footer.jsp" %>

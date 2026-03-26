@@ -38,7 +38,12 @@
     - Screenshot of passed validation
     - Java Skillsets included
     
-5.
+5. [A4 README.md](a4/README.md)
+    - Create server and client side validation
+    - Modify CustomerServlet.java and Customer.java
+    - Test valid and invalid data in form
+    - Complete skillsets 10-12
+
 
 6.
 

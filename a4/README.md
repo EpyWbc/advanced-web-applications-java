@@ -49,5 +49,5 @@ Two Parts:
 
 ---
 
-#### [Skillset 12: Array Copy](../skillsets/SS12_Copy_Array)
+#### [Skillset 12: Array Copy](../skillsets/SS12_Array_Copy)
 ![SS12 Screenshot](img/SS12-Running.png)

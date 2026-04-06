@@ -45,9 +45,12 @@
     - Complete skillsets 10-12
 
 6. [A5 README.md](a5/README.md)
-    -
-    -
-    -
-    -
+    - Implemented server-side validation
+    - Implemented servlet to process form data
+    - Used JSTL to prevent XSS.
+    - Used prepared statements to prevent SQL injection.
+    - Completed skillsets 13-15
+    
+    
 
 7.

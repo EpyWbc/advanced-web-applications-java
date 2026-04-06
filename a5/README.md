@@ -49,7 +49,7 @@
 
 ---
 
-### [Skillset 13: File Write Read Count Words](skillsets/SS13_File_Write_Read_Count_Words/)
+### [Skillset 13: File Write Read Count Words](../skillsets/SS13_File_Write_Read_Count_Words/)
 
 ![SS13 Screenshot](img/SS13-Running.png)
 

@@ -55,14 +55,14 @@
 
 ---
 
-### [Skillset 14: Vehicle Demo](skillsets/SS14_Vehicle_Demo)
+### [Skillset 14: Vehicle Demo](../skillsets/SS14_Vehicle_Demo)
 
-![SS14 Screenshot](img/ssX.png)
+![SS14 Screenshot](img/SS14-Running.png)
 
 ---
 
-### [Skillset 15: Car Inherits Vehicle](skillsets/SS15_Car_Inherits_Vehicle)
+### [Skillset 15: Car Inherits Vehicle](../skillsets/SS15_Car_Inherits_Vehicle)
 
-![SS15 Screenshot](img/ssX.png)
+![SS15 Screenshot](img/SS15-Running.png)
 
 ---

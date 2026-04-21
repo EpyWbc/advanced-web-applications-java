@@ -129,6 +129,26 @@ h2{
 		</div>
 	</div>
 
+	<!-- Slide 4: Logo -->
+	<div class="item" style="background-image: url('img/wbc-logo.png');">
+		<div class="container">
+			<div class="carousel-caption">
+				<h3></h3>
+				<p class="lead">My Logo!</p>
+			</div>
+		</div>
+	</div>
+
+	<!-- Slide 5: Contrast Checker -->
+	<div class="item" style="background-image: url('img/contrast-checker.png');">
+		<div class="container">
+			<div class="carousel-caption">
+				<h3></h3>
+				<p class="lead">Passed Contrast Checker</p>
+			</div>
+		</div>
+	</div>
+
 </div> <!-- /carousel-inner -->
 
 <!-- Carousel nav -->

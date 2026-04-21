@@ -53,4 +53,8 @@
     
     
 
-7.
+7. [P2 README.md](p2/README.md)
+    - Logo Added to website
+    - Chapter Questions
+    - Finished MVC
+    - Database CRUD complete

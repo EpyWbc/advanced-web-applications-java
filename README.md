@@ -1,60 +1,41 @@
-**NOTE:** This README.md file should be placed at the **root of your main directory.**
+# Advanced Web Applications Development
 
-# Lis4368 - Advanced Web Applications Development
+Java web applications developed at Florida State University using enterprise web development technologies.
 
-## Wyatt Campbell
+## Technologies
 
-### Lis4368 Requirements:
+- Java
+- JSP
+- Java Servlets
+- Apache Tomcat
+- JDBC
+- MySQL
+- HTML/CSS/JavaScript
+- MVC Architecture
 
-*Course Work Links:*
+## Key Features
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install JDK
-    - Install Tomcat
-    - Provide screenshots of installations
-    - Create Bitbucket repo
-    - Complete Bitbucket tutorials
-    - Provide git command descriptions
+- Database-driven web applications
+- CRUD operations
+- Client-side validation
+- Server-side validation
+- Prepared Statements
+- SQL Injection Prevention
+- XSS Protection
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    
-    - Application database created
-    - Database servlet connected
-    - Java Skill Sets included
-    - Screenshots provided
+## Projects
 
-3. [A3 README.md](a3/README.md "My A3 README.md file.")
-    
-    - Screenshot of ERD
-    - Screenshot of Populated Tables
-    - Screenshot of a3 index.jsp
-    - MWB File
-    - SQL File
+### Customer Management System
+Built a Java web application connected to a MySQL database using JDBC.
 
-4. [P1 README.md](p1/README.md "My P1 README.md file.")
-    
-    - Client-side validation form created
-    - Screenshot of failed validation
-    - Screenshot of passed validation
-    - Java Skillsets included
-    
-5. [A4 README.md](a4/README.md)
-    - Create server and client side validation
-    - Modify CustomerServlet.java and Customer.java
-    - Test valid and invalid data in form
-    - Complete skillsets 10-12
+Features:
+- Create customer records
+- Modify existing records
+- Database validation
+- MVC architecture
 
-6. [A5 README.md](a5/README.md)
-    - Implemented server-side validation
-    - Implemented servlet to process form data
-    - Used JSTL to prevent XSS.
-    - Used prepared statements to prevent SQL injection.
-    - Completed skillsets 13-15
-    
-    
-
-7. [P2 README.md](p2/README.md)
-    - Logo Added to website
-    - Chapter Questions
-    - Finished MVC
-    - Database CRUD complete
+### Security Implementation
+Implemented:
+- Prepared statements
+- JSTL escaping
+- Input validation
